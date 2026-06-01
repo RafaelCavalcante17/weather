@@ -118,6 +118,7 @@ A previsão é obtida internamente via `/api/cptec/v1/clima/previsao/{id}` após
 ├── tests/                       # Testes automatizados
 └── docs/
     └── postman_collection.json  # Coleção Postman
+    └── Agregação de Dados Climáticos e Geográficos - Documentação.pdf                  # Documentação
 ```
 
 ## Integrantes
